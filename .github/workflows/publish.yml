@@ -1,0 +1,56 @@
+name: publish
+
+# Hourly 9 AM-10:30 PM IST (03:30-17:00 UTC). Each run posts at most one queued clip; early or extra runs do nothing.
+on:
+  schedule:
+    - cron: '37 3-16 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Build the container but do not publish'
+        default: '0'
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Publish next queued clip
+        run: node publisher/publish.mjs
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run || '0' }}
+      - name: Save publish state
+        if: always()
+        run: |
+          git config user.name "startup-gyaan-publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet || (git commit -m "state: $(date -u +%FT%TZ)" && git pull --rebase && git push)
+      # GitHub's cron often skips hours, so each run schedules the next one itself
+      - name: Hand off to the next run
+        id: more
+        if: always()
+        env:
+          HAS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN != '' }}
+        run: git pull -q --rebase && node publisher/more.mjs
+      - name: Wait, then start the next run
+        if: steps.more.outputs.more == 'true' && inputs.dry_run != '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 3000
+          gh workflow run publish.yml --ref main -R ${{ github.repository }}
