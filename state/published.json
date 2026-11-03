@@ -12,15 +12,27 @@
       "ts": "2026-11-03T13:00:32.204Z",
       "title": "Infosys walked away from 25% of its revenue | Narayana Murthy #shorts",
       "note": "went live despite an error"
+    },
+    "nrm-02": {
+      "media_id": "18108615467188347",
+      "permalink": "https://www.instagram.com/reel/DfSNfQmiLRl/",
+      "ts": "2026-11-03T15:33:01.035Z",
+      "title": "Why Narayana Murthy didn't keep most of Infosys #shorts"
     }
   },
-  "last_ts": "2026-11-03T13:00:32.204Z",
+  "last_ts": "2026-11-03T15:33:01.035Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
       "event": "published_despite_error",
       "id": "nrm-01",
       "reason": "{\"code\":1,\"message\":\"An unknown error occurred\"}"
+    },
+    {
+      "ts": "2026-11-03T15:33:01.035Z",
+      "event": "published",
+      "id": "nrm-02",
+      "media_id": "18108615467188347"
     }
   ]
 }
