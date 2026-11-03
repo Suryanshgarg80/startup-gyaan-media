@@ -5,8 +5,22 @@
       "ts": "2026-11-03T09:13:00.000Z",
       "title": "posted from Chrome",
       "note": "seed: posted via Chrome before the cloud took over"
+    },
+    "nrm-01": {
+      "media_id": "18138665359734005",
+      "permalink": "https://www.instagram.com/reel/DfR8CsVgFDz/",
+      "ts": "2026-11-03T13:00:32.204Z",
+      "title": "Infosys walked away from 25% of its revenue | Narayana Murthy #shorts",
+      "note": "went live despite an error"
     }
   },
-  "last_ts": "2026-11-03T09:13:00.000Z",
-  "events": []
+  "last_ts": "2026-11-03T13:00:32.204Z",
+  "events": [
+    {
+      "ts": "2026-11-03T13:00:32.204Z",
+      "event": "published_despite_error",
+      "id": "nrm-01",
+      "reason": "{\"code\":1,\"message\":\"An unknown error occurred\"}"
+    }
+  ]
 }
