@@ -60,9 +60,15 @@
       "permalink": "https://www.instagram.com/reel/DfWf2PfCIiv/",
       "ts": "2026-11-05T07:30:21.883Z",
       "title": "Most categories have room for only 2 brands | Shalabh Gupta, Nuuk #shorts"
+    },
+    "nuk-02": {
+      "media_id": "18182260342427815",
+      "permalink": "https://www.instagram.com/reel/DfWxWD_AHJ0/",
+      "ts": "2026-11-05T10:02:54.252Z",
+      "title": "Make money off the first purchase | Shalabh Gupta, Nuuk #shorts"
     }
   },
-  "last_ts": "2026-11-05T07:30:21.883Z",
+  "last_ts": "2026-11-05T10:02:54.252Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -117,6 +123,12 @@
       "event": "published",
       "id": "nuk-01",
       "media_id": "18131650708881603"
+    },
+    {
+      "ts": "2026-11-05T10:02:54.252Z",
+      "event": "published",
+      "id": "nuk-02",
+      "media_id": "18182260342427815"
     }
   ]
 }
