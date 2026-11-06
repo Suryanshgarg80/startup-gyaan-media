@@ -102,9 +102,15 @@
       "permalink": "https://www.instagram.com/reel/DfZiBQtDiMS/",
       "ts": "2026-11-06T11:46:44.333Z",
       "title": "You earn smart work through hard work | Vasant Sridhar, OfBusiness #shorts"
+    },
+    "fcl-01": {
+      "media_id": "18131790574781862",
+      "permalink": "https://www.instagram.com/reel/DfZzfqRDa7z/",
+      "ts": "2026-11-06T14:19:25.289Z",
+      "title": "Why FirstClub launched with no search button | Ayyappan Rajagopal #shorts"
     }
   },
-  "last_ts": "2026-11-06T11:46:44.333Z",
+  "last_ts": "2026-11-06T14:19:25.289Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -201,6 +207,12 @@
       "event": "published",
       "id": "ofb-04",
       "media_id": "17910865899663795"
+    },
+    {
+      "ts": "2026-11-06T14:19:25.289Z",
+      "event": "published",
+      "id": "fcl-01",
+      "media_id": "18131790574781862"
     }
   ]
 }
