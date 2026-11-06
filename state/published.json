@@ -96,9 +96,15 @@
       "permalink": "https://www.instagram.com/reel/DfZQXPeD6xD/",
       "ts": "2026-11-06T09:12:45.118Z",
       "title": "Hands off does not mean eyes off | Vasant Sridhar, OfBusiness #shorts"
+    },
+    "ofb-04": {
+      "media_id": "17910865899663795",
+      "permalink": "https://www.instagram.com/reel/DfZiBQtDiMS/",
+      "ts": "2026-11-06T11:46:44.333Z",
+      "title": "You earn smart work through hard work | Vasant Sridhar, OfBusiness #shorts"
     }
   },
-  "last_ts": "2026-11-06T09:12:45.118Z",
+  "last_ts": "2026-11-06T11:46:44.333Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -189,6 +195,12 @@
       "event": "published",
       "id": "ofb-03",
       "media_id": "18127926962303497"
+    },
+    {
+      "ts": "2026-11-06T11:46:44.333Z",
+      "event": "published",
+      "id": "ofb-04",
+      "media_id": "17910865899663795"
     }
   ]
 }
