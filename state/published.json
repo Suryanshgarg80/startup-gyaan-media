@@ -108,9 +108,15 @@
       "permalink": "https://www.instagram.com/reel/DfZzfqRDa7z/",
       "ts": "2026-11-06T14:19:25.289Z",
       "title": "Why FirstClub launched with no search button | Ayyappan Rajagopal #shorts"
+    },
+    "fcl-02": {
+      "media_id": "17978099355159058",
+      "permalink": "https://www.instagram.com/reel/DfbQQmgoYLX/",
+      "ts": "2026-11-07T03:50:21.956Z",
+      "title": "When an unhappy customer says \"I so want you to succeed\" | Ayyappan Rajagopal #shorts"
     }
   },
-  "last_ts": "2026-11-06T14:19:25.289Z",
+  "last_ts": "2026-11-07T03:50:21.956Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -213,6 +219,12 @@
       "event": "published",
       "id": "fcl-01",
       "media_id": "18131790574781862"
+    },
+    {
+      "ts": "2026-11-07T03:50:21.956Z",
+      "event": "published",
+      "id": "fcl-02",
+      "media_id": "17978099355159058"
     }
   ]
 }
