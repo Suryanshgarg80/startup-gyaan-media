@@ -144,9 +144,15 @@
       "permalink": "https://www.instagram.com/reel/DfekMfVjipB/",
       "ts": "2026-11-08T10:41:56.519Z",
       "title": "No answer to \"where do you see yourself in 5 years\"? | Anand Balaji, Xflow #shorts"
+    },
+    "bya-01": {
+      "media_id": "18044741576838692",
+      "permalink": "https://www.instagram.com/reel/DfgvMusCNpn/",
+      "ts": "2026-11-09T06:56:34.616Z",
+      "title": "They cut the price and couldn't sell. Raised it, sales went up | Eshwar, Beyond Appliances #shorts"
     }
   },
-  "last_ts": "2026-11-08T10:41:56.519Z",
+  "last_ts": "2026-11-09T06:56:34.616Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -285,6 +291,12 @@
       "event": "published",
       "id": "xfl-04",
       "media_id": "18004048187991654"
+    },
+    {
+      "ts": "2026-11-09T06:56:34.616Z",
+      "event": "published",
+      "id": "bya-01",
+      "media_id": "18044741576838692"
     }
   ]
 }
