@@ -40,6 +40,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add state
           git diff --cached --quiet || (git commit -m "state: $(date -u +%FT%TZ)" && git pull --rebase && git push)
+      # Off until Google's API audit passes: set repo variable YT_CLOUD=1 (and YT_PRIVACY=public) to turn on
+      - name: Upload next posted clip to YouTube
+        if: always() && vars.YT_CLOUD == '1' && inputs.dry_run != '1'
+        run: |
+          git config user.name "startup-gyaan-publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull -q --rebase && node publisher/youtube.mjs
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
       # GitHub's cron often skips hours, so each run schedules the next one itself
       - name: Hand off to the next run
         id: more
