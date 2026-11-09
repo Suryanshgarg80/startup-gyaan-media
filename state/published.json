@@ -150,9 +150,15 @@
       "permalink": "https://www.instagram.com/reel/DfgvMusCNpn/",
       "ts": "2026-11-09T06:56:34.616Z",
       "title": "They cut the price and couldn't sell. Raised it, sales went up | Eshwar, Beyond Appliances #shorts"
+    },
+    "bya-02": {
+      "media_id": "18138334507658382",
+      "permalink": "https://www.instagram.com/reel/DfhAyBIClX8/",
+      "ts": "2026-11-09T09:30:35.999Z",
+      "title": "Why a samosa chain was stuck at 5 outlets | Eshwar, Beyond Appliances #shorts"
     }
   },
-  "last_ts": "2026-11-09T06:56:34.616Z",
+  "last_ts": "2026-11-09T09:30:35.999Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -297,6 +303,12 @@
       "event": "published",
       "id": "bya-01",
       "media_id": "18044741576838692"
+    },
+    {
+      "ts": "2026-11-09T09:30:35.999Z",
+      "event": "published",
+      "id": "bya-02",
+      "media_id": "18138334507658382"
     }
   ]
 }
