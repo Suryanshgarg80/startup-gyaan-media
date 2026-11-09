@@ -156,9 +156,15 @@
       "permalink": "https://www.instagram.com/reel/DfhAyBIClX8/",
       "ts": "2026-11-09T09:30:35.999Z",
       "title": "Why a samosa chain was stuck at 5 outlets | Eshwar, Beyond Appliances #shorts"
+    },
+    "bya-03": {
+      "media_id": "18650657746063694",
+      "permalink": "https://www.instagram.com/reel/DfhNu3nj_gc/",
+      "ts": "2026-11-09T11:23:21.568Z",
+      "title": "\"There's no right time to start\" | Eshwar, Beyond Appliances #shorts"
     }
   },
-  "last_ts": "2026-11-09T09:30:35.999Z",
+  "last_ts": "2026-11-09T11:23:21.568Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -309,6 +315,12 @@
       "event": "published",
       "id": "bya-02",
       "media_id": "18138334507658382"
+    },
+    {
+      "ts": "2026-11-09T11:23:21.568Z",
+      "event": "published",
+      "id": "bya-03",
+      "media_id": "18650657746063694"
     }
   ]
 }
