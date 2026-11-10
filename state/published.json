@@ -168,9 +168,15 @@
       "permalink": "https://www.instagram.com/reel/Dfi-6rUHE0o/",
       "ts": "2026-11-10T03:52:23.667Z",
       "title": "A visa queue started BLS International | Shikhar Aggarwal #shorts"
+    },
+    "bls-02": {
+      "media_id": "17920783980458301",
+      "permalink": "https://www.instagram.com/reel/DfjWF4djmhE/",
+      "ts": "2026-11-10T07:14:56.724Z",
+      "title": "How BLS manages 50,000+ people: train, trust, allow mistakes | Shikhar Aggarwal #shorts"
     }
   },
-  "last_ts": "2026-11-10T03:52:23.667Z",
+  "last_ts": "2026-11-10T07:14:56.724Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -333,6 +339,12 @@
       "event": "published",
       "id": "bls-01",
       "media_id": "18131071813864835"
+    },
+    {
+      "ts": "2026-11-10T07:14:56.725Z",
+      "event": "published",
+      "id": "bls-02",
+      "media_id": "17920783980458301"
     }
   ]
 }
