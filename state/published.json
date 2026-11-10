@@ -162,9 +162,15 @@
       "permalink": "https://www.instagram.com/reel/DfhNu3nj_gc/",
       "ts": "2026-11-09T11:23:21.568Z",
       "title": "\"There's no right time to start\" | Eshwar, Beyond Appliances #shorts"
+    },
+    "bls-01": {
+      "media_id": "18131071813864835",
+      "permalink": "https://www.instagram.com/reel/Dfi-6rUHE0o/",
+      "ts": "2026-11-10T03:52:23.667Z",
+      "title": "A visa queue started BLS International | Shikhar Aggarwal #shorts"
     }
   },
-  "last_ts": "2026-11-09T11:23:21.568Z",
+  "last_ts": "2026-11-10T03:52:23.667Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -321,6 +327,12 @@
       "event": "published",
       "id": "bya-03",
       "media_id": "18650657746063694"
+    },
+    {
+      "ts": "2026-11-10T03:52:23.667Z",
+      "event": "published",
+      "id": "bls-01",
+      "media_id": "18131071813864835"
     }
   ]
 }
