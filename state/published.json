@@ -186,9 +186,15 @@
       "permalink": "https://www.instagram.com/reel/DfljtRVjHXu/",
       "ts": "2026-11-11T03:52:19.714Z",
       "title": "\"We didn't need the money\": why BLS went public | Shikhar Aggarwal #shorts"
+    },
+    "mox-01": {
+      "media_id": "18028461950877498",
+      "permalink": "https://www.instagram.com/reel/Dfl67oHDlVv/",
+      "ts": "2026-11-11T07:15:18.016Z",
+      "title": "\"Shampoo can't change the shape of your hair\" | Nikita Khanna, Moxie Beauty #shorts"
     }
   },
-  "last_ts": "2026-11-11T03:52:19.714Z",
+  "last_ts": "2026-11-11T07:15:18.016Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -369,6 +375,12 @@
       "event": "published",
       "id": "bls-04",
       "media_id": "18140293840633095"
+    },
+    {
+      "ts": "2026-11-11T07:15:18.016Z",
+      "event": "published",
+      "id": "mox-01",
+      "media_id": "18028461950877498"
     }
   ]
 }
