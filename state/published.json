@@ -192,9 +192,15 @@
       "permalink": "https://www.instagram.com/reel/Dfl67oHDlVv/",
       "ts": "2026-11-11T07:15:18.016Z",
       "title": "\"Shampoo can't change the shape of your hair\" | Nikita Khanna, Moxie Beauty #shorts"
+    },
+    "mox-02": {
+      "media_id": "17996973845844116",
+      "permalink": "https://www.instagram.com/reel/DfmSKfjkcLN/",
+      "ts": "2026-11-11T10:38:18.597Z",
+      "title": "Indian customers are value sensitive, not price sensitive | Nikita Khanna, Moxie Beauty #shorts"
     }
   },
-  "last_ts": "2026-11-11T07:15:18.016Z",
+  "last_ts": "2026-11-11T10:38:18.597Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -381,6 +387,12 @@
       "event": "published",
       "id": "mox-01",
       "media_id": "18028461950877498"
+    },
+    {
+      "ts": "2026-11-11T10:38:18.597Z",
+      "event": "published",
+      "id": "mox-02",
+      "media_id": "17996973845844116"
     }
   ]
 }
