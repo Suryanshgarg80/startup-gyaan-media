@@ -198,9 +198,15 @@
       "permalink": "https://www.instagram.com/reel/DfmSKfjkcLN/",
       "ts": "2026-11-11T10:38:18.597Z",
       "title": "Indian customers are value sensitive, not price sensitive | Nikita Khanna, Moxie Beauty #shorts"
+    },
+    "mox-03": {
+      "media_id": "18116929070126990",
+      "permalink": "https://www.instagram.com/reel/DfoI2anDyI2/",
+      "ts": "2026-11-12T03:55:45.307Z",
+      "title": "\"Don't worry about proving yourself. Just learn\" | Nikita Khanna, Moxie Beauty #shorts"
     }
   },
-  "last_ts": "2026-11-11T10:38:18.597Z",
+  "last_ts": "2026-11-12T03:55:45.307Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -393,6 +399,12 @@
       "event": "published",
       "id": "mox-02",
       "media_id": "17996973845844116"
+    },
+    {
+      "ts": "2026-11-12T03:55:45.307Z",
+      "event": "published",
+      "id": "mox-03",
+      "media_id": "18116929070126990"
     }
   ]
 }
