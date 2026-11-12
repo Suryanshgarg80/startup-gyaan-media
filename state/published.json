@@ -204,9 +204,15 @@
       "permalink": "https://www.instagram.com/reel/DfoI2anDyI2/",
       "ts": "2026-11-12T03:55:45.307Z",
       "title": "\"Don't worry about proving yourself. Just learn\" | Nikita Khanna, Moxie Beauty #shorts"
+    },
+    "mox-04": {
+      "media_id": "18184850938428399",
+      "permalink": "https://www.instagram.com/reel/DfogIG-jmNb/",
+      "ts": "2026-11-12T07:19:08.163Z",
+      "title": "\"100 crore ARR was never the goal\" | Nikita Khanna, Moxie Beauty #shorts"
     }
   },
-  "last_ts": "2026-11-12T03:55:45.307Z",
+  "last_ts": "2026-11-12T07:19:08.163Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -405,6 +411,12 @@
       "event": "published",
       "id": "mox-03",
       "media_id": "18116929070126990"
+    },
+    {
+      "ts": "2026-11-12T07:19:08.163Z",
+      "event": "published",
+      "id": "mox-04",
+      "media_id": "18184850938428399"
     }
   ]
 }
