@@ -210,9 +210,15 @@
       "permalink": "https://www.instagram.com/reel/DfogIG-jmNb/",
       "ts": "2026-11-12T07:19:08.163Z",
       "title": "\"100 crore ARR was never the goal\" | Nikita Khanna, Moxie Beauty #shorts"
+    },
+    "fxd-01": {
+      "media_id": "18111829958219170",
+      "permalink": "https://www.instagram.com/reel/Dfo3dnxkcw1/",
+      "ts": "2026-11-12T10:43:00.658Z",
+      "title": "\"Serum matlab injection\": why the drug dept blocked her serum | Shaily Mehrotra, Fixderma #shorts"
     }
   },
-  "last_ts": "2026-11-12T07:19:08.163Z",
+  "last_ts": "2026-11-12T10:43:00.658Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -417,6 +423,12 @@
       "event": "published",
       "id": "mox-04",
       "media_id": "18184850938428399"
+    },
+    {
+      "ts": "2026-11-12T10:43:00.658Z",
+      "event": "published",
+      "id": "fxd-01",
+      "media_id": "18111829958219170"
     }
   ]
 }
