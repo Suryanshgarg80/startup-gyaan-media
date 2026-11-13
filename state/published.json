@@ -228,9 +228,15 @@
       "permalink": "https://www.instagram.com/reel/DfrEoWEinPe/",
       "ts": "2026-11-13T07:16:19.051Z",
       "title": "\"5 years on Amazon. Blinkit beat it in a month\" | Manas Gupta, GobbleCube #shorts"
+    },
+    "gbc-02": {
+      "media_id": "17979079476152894",
+      "permalink": "https://www.instagram.com/reel/Dfrb8YegggZ/",
+      "ts": "2026-11-13T10:39:57.842Z",
+      "title": "Puja needs is a ₹40 crore category on quick commerce | Manas Gupta, GobbleCube #shorts"
     }
   },
-  "last_ts": "2026-11-13T07:16:19.051Z",
+  "last_ts": "2026-11-13T10:39:57.842Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -453,6 +459,12 @@
       "event": "published",
       "id": "gbc-01",
       "media_id": "17898840582414407"
+    },
+    {
+      "ts": "2026-11-13T10:39:57.842Z",
+      "event": "published",
+      "id": "gbc-02",
+      "media_id": "17979079476152894"
     }
   ]
 }
