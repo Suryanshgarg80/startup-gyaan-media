@@ -216,9 +216,15 @@
       "permalink": "https://www.instagram.com/reel/Dfo3dnxkcw1/",
       "ts": "2026-11-12T10:43:00.658Z",
       "title": "\"Serum matlab injection\": why the drug dept blocked her serum | Shaily Mehrotra, Fixderma #shorts"
+    },
+    "fxd-02": {
+      "media_id": "18006368619008930",
+      "permalink": "https://www.instagram.com/reel/DfqtPLcAPcl/",
+      "ts": "2026-11-13T03:52:08.247Z",
+      "title": "Sharks don't even get a calculator | Shaily Mehrotra on Shark Tank India #shorts"
     }
   },
-  "last_ts": "2026-11-12T10:43:00.658Z",
+  "last_ts": "2026-11-13T03:52:08.247Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -429,6 +435,12 @@
       "event": "published",
       "id": "fxd-01",
       "media_id": "18111829958219170"
+    },
+    {
+      "ts": "2026-11-13T03:52:08.247Z",
+      "event": "published",
+      "id": "fxd-02",
+      "media_id": "18006368619008930"
     }
   ]
 }
