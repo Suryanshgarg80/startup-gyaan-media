@@ -222,9 +222,15 @@
       "permalink": "https://www.instagram.com/reel/DfqtPLcAPcl/",
       "ts": "2026-11-13T03:52:08.247Z",
       "title": "Sharks don't even get a calculator | Shaily Mehrotra on Shark Tank India #shorts"
+    },
+    "gbc-01": {
+      "media_id": "17898840582414407",
+      "permalink": "https://www.instagram.com/reel/DfrEoWEinPe/",
+      "ts": "2026-11-13T07:16:19.051Z",
+      "title": "\"5 years on Amazon. Blinkit beat it in a month\" | Manas Gupta, GobbleCube #shorts"
     }
   },
-  "last_ts": "2026-11-13T03:52:08.247Z",
+  "last_ts": "2026-11-13T07:16:19.051Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -441,6 +447,12 @@
       "event": "published",
       "id": "fxd-02",
       "media_id": "18006368619008930"
+    },
+    {
+      "ts": "2026-11-13T07:16:19.051Z",
+      "event": "published",
+      "id": "gbc-01",
+      "media_id": "17898840582414407"
     }
   ]
 }
