@@ -240,9 +240,15 @@
       "permalink": "https://www.instagram.com/reel/DftSUNulBCF/",
       "ts": "2026-11-14T03:54:15.299Z",
       "title": "A dark store stocks 15,000 SKUs. A kirana: 600 | Manas Gupta, GobbleCube #shorts"
+    },
+    "gbc-04": {
+      "media_id": "18095718791494683",
+      "permalink": "https://www.instagram.com/reel/DftpkDCjtXY/",
+      "ts": "2026-11-14T07:17:26.320Z",
+      "title": "10% of Bombay localities = 40% of energy bar sales | Manas Gupta, GobbleCube #shorts"
     }
   },
-  "last_ts": "2026-11-14T03:54:15.299Z",
+  "last_ts": "2026-11-14T07:17:26.320Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -477,6 +483,12 @@
       "event": "published",
       "id": "gbc-03",
       "media_id": "17961753888257905"
+    },
+    {
+      "ts": "2026-11-14T07:17:26.320Z",
+      "event": "published",
+      "id": "gbc-04",
+      "media_id": "18095718791494683"
     }
   ]
 }
