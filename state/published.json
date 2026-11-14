@@ -246,9 +246,15 @@
       "permalink": "https://www.instagram.com/reel/DftpkDCjtXY/",
       "ts": "2026-11-14T07:17:26.320Z",
       "title": "10% of Bombay localities = 40% of energy bar sales | Manas Gupta, GobbleCube #shorts"
+    },
+    "lbs-01": {
+      "media_id": "17948322495369740",
+      "permalink": "https://www.instagram.com/reel/DfuA4adlu-z/",
+      "ts": "2026-11-14T10:41:11.343Z",
+      "title": "72 hours to know: 1,000 pieces or 5,000 | Sidhant Keshwani, Libas #shorts"
     }
   },
-  "last_ts": "2026-11-14T07:17:26.320Z",
+  "last_ts": "2026-11-14T10:41:11.343Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -489,6 +495,12 @@
       "event": "published",
       "id": "gbc-04",
       "media_id": "18095718791494683"
+    },
+    {
+      "ts": "2026-11-14T10:41:11.343Z",
+      "event": "published",
+      "id": "lbs-01",
+      "media_id": "17948322495369740"
     }
   ]
 }
