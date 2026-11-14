@@ -234,9 +234,15 @@
       "permalink": "https://www.instagram.com/reel/Dfrb8YegggZ/",
       "ts": "2026-11-13T10:39:57.842Z",
       "title": "Puja needs is a ₹40 crore category on quick commerce | Manas Gupta, GobbleCube #shorts"
+    },
+    "gbc-03": {
+      "media_id": "17961753888257905",
+      "permalink": "https://www.instagram.com/reel/DftSUNulBCF/",
+      "ts": "2026-11-14T03:54:15.299Z",
+      "title": "A dark store stocks 15,000 SKUs. A kirana: 600 | Manas Gupta, GobbleCube #shorts"
     }
   },
-  "last_ts": "2026-11-13T10:39:57.842Z",
+  "last_ts": "2026-11-14T03:54:15.299Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -465,6 +471,12 @@
       "event": "published",
       "id": "gbc-02",
       "media_id": "17979079476152894"
+    },
+    {
+      "ts": "2026-11-14T03:54:15.299Z",
+      "event": "published",
+      "id": "gbc-03",
+      "media_id": "17961753888257905"
     }
   ]
 }
