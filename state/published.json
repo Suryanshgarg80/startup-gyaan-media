@@ -264,9 +264,15 @@
       "permalink": "https://www.instagram.com/reel/DfwOH_2jZ1L/",
       "ts": "2026-11-15T07:15:24.527Z",
       "title": "Online brand goes offline: #1 in 48 hours | Sidhant Keshwani, Libas #shorts"
+    },
+    "lbs-04": {
+      "media_id": "17868675771675599",
+      "permalink": "https://www.instagram.com/reel/DfwlawcCEBq/",
+      "ts": "2026-11-15T10:39:00.652Z",
+      "title": "1,000 dark stores? Impossible for fashion | Sidhant Keshwani, Libas #shorts"
     }
   },
-  "last_ts": "2026-11-15T07:15:24.527Z",
+  "last_ts": "2026-11-15T10:39:00.652Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -525,6 +531,12 @@
       "event": "published",
       "id": "lbs-03",
       "media_id": "18205003807376854"
+    },
+    {
+      "ts": "2026-11-15T10:39:00.652Z",
+      "event": "published",
+      "id": "lbs-04",
+      "media_id": "17868675771675599"
     }
   ]
 }
