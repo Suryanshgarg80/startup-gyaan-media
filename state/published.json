@@ -282,9 +282,15 @@
       "permalink": "https://www.instagram.com/reel/DfyzIazkYmZ/",
       "ts": "2026-11-16T07:17:34.528Z",
       "title": "Paradise serves biryani in 30 seconds. Here's why | Jaydeep Barman, Rebel Foods #shorts"
+    },
+    "rbl-03": {
+      "media_id": "18038226230854640",
+      "permalink": "https://www.instagram.com/reel/DfzKrGMgdIq/",
+      "ts": "2026-11-16T10:43:18.211Z",
+      "title": "Burger wraps hit 10% of Faasos overnight | Jaydeep Barman, Rebel Foods #shorts"
     }
   },
-  "last_ts": "2026-11-16T07:17:34.528Z",
+  "last_ts": "2026-11-16T10:43:18.211Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -561,6 +567,12 @@
       "event": "published",
       "id": "rbl-02",
       "media_id": "18116123591616157"
+    },
+    {
+      "ts": "2026-11-16T10:43:18.211Z",
+      "event": "published",
+      "id": "rbl-03",
+      "media_id": "18038226230854640"
     }
   ]
 }
