@@ -270,9 +270,15 @@
       "permalink": "https://www.instagram.com/reel/DfwlawcCEBq/",
       "ts": "2026-11-15T10:39:00.652Z",
       "title": "1,000 dark stores? Impossible for fashion | Sidhant Keshwani, Libas #shorts"
+    },
+    "rbl-01": {
+      "media_id": "18451615540134943",
+      "permalink": "https://www.instagram.com/reel/Dfybm7ljp8i/",
+      "ts": "2026-11-16T03:51:42.891Z",
+      "title": "Domino's India pays 2x the rent of US | Jaydeep Barman, Rebel Foods #shorts"
     }
   },
-  "last_ts": "2026-11-15T10:39:00.652Z",
+  "last_ts": "2026-11-16T03:51:42.891Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -537,6 +543,12 @@
       "event": "published",
       "id": "lbs-04",
       "media_id": "17868675771675599"
+    },
+    {
+      "ts": "2026-11-16T03:51:42.891Z",
+      "event": "published",
+      "id": "rbl-01",
+      "media_id": "18451615540134943"
     }
   ]
 }
