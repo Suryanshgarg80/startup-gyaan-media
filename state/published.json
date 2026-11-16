@@ -276,9 +276,15 @@
       "permalink": "https://www.instagram.com/reel/Dfybm7ljp8i/",
       "ts": "2026-11-16T03:51:42.891Z",
       "title": "Domino's India pays 2x the rent of US | Jaydeep Barman, Rebel Foods #shorts"
+    },
+    "rbl-02": {
+      "media_id": "18116123591616157",
+      "permalink": "https://www.instagram.com/reel/DfyzIazkYmZ/",
+      "ts": "2026-11-16T07:17:34.528Z",
+      "title": "Paradise serves biryani in 30 seconds. Here's why | Jaydeep Barman, Rebel Foods #shorts"
     }
   },
-  "last_ts": "2026-11-16T03:51:42.891Z",
+  "last_ts": "2026-11-16T07:17:34.528Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -549,6 +555,12 @@
       "event": "published",
       "id": "rbl-01",
       "media_id": "18451615540134943"
+    },
+    {
+      "ts": "2026-11-16T07:17:34.528Z",
+      "event": "published",
+      "id": "rbl-02",
+      "media_id": "18116123591616157"
     }
   ]
 }
