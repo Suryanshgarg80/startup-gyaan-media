@@ -294,9 +294,15 @@
       "permalink": "https://www.instagram.com/reel/Df1AXwtFtf6/",
       "ts": "2026-11-17T03:51:26.703Z",
       "title": "Rebel Foods tests new brands at zero cost | Jaydeep Barman #shorts"
+    },
+    "lhz-01": {
+      "media_id": "18140804185661346",
+      "permalink": "https://www.instagram.com/reel/Df1X5euip9V/",
+      "ts": "2026-11-17T07:17:04.335Z",
+      "title": "Lahori Zeera: 50 lakh bottles a day, 1 crore next | Saurabh Munjal #shorts"
     }
   },
-  "last_ts": "2026-11-17T03:51:26.703Z",
+  "last_ts": "2026-11-17T07:17:04.335Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -585,6 +591,12 @@
       "event": "published",
       "id": "rbl-04",
       "media_id": "18106060574529665"
+    },
+    {
+      "ts": "2026-11-17T07:17:04.335Z",
+      "event": "published",
+      "id": "lhz-01",
+      "media_id": "18140804185661346"
     }
   ]
 }
