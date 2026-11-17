@@ -300,9 +300,15 @@
       "permalink": "https://www.instagram.com/reel/Df1X5euip9V/",
       "ts": "2026-11-17T07:17:04.335Z",
       "title": "Lahori Zeera: 50 lakh bottles a day, 1 crore next | Saurabh Munjal #shorts"
+    },
+    "lhz-02": {
+      "media_id": "18099955106408593",
+      "permalink": "https://www.instagram.com/reel/Df1vWnVIH4G/",
+      "ts": "2026-11-17T10:41:58.781Z",
+      "title": "Lahori Zeera has never sold on credit | Saurabh Munjal #shorts"
     }
   },
-  "last_ts": "2026-11-17T07:17:04.335Z",
+  "last_ts": "2026-11-17T10:41:58.781Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -597,6 +603,12 @@
       "event": "published",
       "id": "lhz-01",
       "media_id": "18140804185661346"
+    },
+    {
+      "ts": "2026-11-17T10:41:58.781Z",
+      "event": "published",
+      "id": "lhz-02",
+      "media_id": "18099955106408593"
     }
   ]
 }
