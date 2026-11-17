@@ -288,9 +288,15 @@
       "permalink": "https://www.instagram.com/reel/DfzKrGMgdIq/",
       "ts": "2026-11-16T10:43:18.211Z",
       "title": "Burger wraps hit 10% of Faasos overnight | Jaydeep Barman, Rebel Foods #shorts"
+    },
+    "rbl-04": {
+      "media_id": "18106060574529665",
+      "permalink": "https://www.instagram.com/reel/Df1AXwtFtf6/",
+      "ts": "2026-11-17T03:51:26.703Z",
+      "title": "Rebel Foods tests new brands at zero cost | Jaydeep Barman #shorts"
     }
   },
-  "last_ts": "2026-11-16T10:43:18.211Z",
+  "last_ts": "2026-11-17T03:51:26.703Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -573,6 +579,12 @@
       "event": "published",
       "id": "rbl-03",
       "media_id": "18038226230854640"
+    },
+    {
+      "ts": "2026-11-17T03:51:26.703Z",
+      "event": "published",
+      "id": "rbl-04",
+      "media_id": "18106060574529665"
     }
   ]
 }
