@@ -312,9 +312,15 @@
       "permalink": "https://www.instagram.com/reel/Df3sDz6j5Xo/",
       "ts": "2026-11-18T04:51:41.013Z",
       "title": "A full truck of Lahori Zeera costs under ₹3 lakh | Saurabh Munjal #shorts"
+    },
+    "lhz-04": {
+      "media_id": "18082514237743933",
+      "permalink": "https://www.instagram.com/reel/Df4DOWSGze7/",
+      "ts": "2026-11-18T08:14:06.438Z",
+      "title": "Win kiranas first, quick commerce follows | Saurabh Munjal, Lahori Zeera #shorts"
     }
   },
-  "last_ts": "2026-11-18T04:51:41.013Z",
+  "last_ts": "2026-11-18T08:14:06.438Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -627,6 +633,12 @@
       "event": "published",
       "id": "lhz-03",
       "media_id": "18129292969847641"
+    },
+    {
+      "ts": "2026-11-18T08:14:06.438Z",
+      "event": "published",
+      "id": "lhz-04",
+      "media_id": "18082514237743933"
     }
   ]
 }
