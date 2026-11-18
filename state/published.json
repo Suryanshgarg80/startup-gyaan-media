@@ -306,9 +306,15 @@
       "permalink": "https://www.instagram.com/reel/Df1vWnVIH4G/",
       "ts": "2026-11-17T10:41:58.781Z",
       "title": "Lahori Zeera has never sold on credit | Saurabh Munjal #shorts"
+    },
+    "lhz-03": {
+      "media_id": "18129292969847641",
+      "permalink": "https://www.instagram.com/reel/Df3sDz6j5Xo/",
+      "ts": "2026-11-18T04:51:41.013Z",
+      "title": "A full truck of Lahori Zeera costs under ₹3 lakh | Saurabh Munjal #shorts"
     }
   },
-  "last_ts": "2026-11-17T10:41:58.781Z",
+  "last_ts": "2026-11-18T04:51:41.013Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -615,6 +621,12 @@
       "event": "publish_failed",
       "id": "lhz-03",
       "reason": "container 17929100844244217: ERROR"
+    },
+    {
+      "ts": "2026-11-18T04:51:41.013Z",
+      "event": "published",
+      "id": "lhz-03",
+      "media_id": "18129292969847641"
     }
   ]
 }
