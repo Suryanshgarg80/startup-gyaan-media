@@ -318,9 +318,15 @@
       "permalink": "https://www.instagram.com/reel/Df4DOWSGze7/",
       "ts": "2026-11-18T08:14:06.438Z",
       "title": "Win kiranas first, quick commerce follows | Saurabh Munjal, Lahori Zeera #shorts"
+    },
+    "smb-01": {
+      "media_id": "18147397483606546",
+      "permalink": "https://www.instagram.com/reel/Df4aXL8kZCD/",
+      "ts": "2026-11-18T11:36:14.937Z",
+      "title": "Sunil Mittal raised $18 billion in 34 months | Airtel after Jio #shorts"
     }
   },
-  "last_ts": "2026-11-18T08:14:06.438Z",
+  "last_ts": "2026-11-18T11:36:14.937Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -639,6 +645,12 @@
       "event": "published",
       "id": "lhz-04",
       "media_id": "18082514237743933"
+    },
+    {
+      "ts": "2026-11-18T11:36:14.937Z",
+      "event": "published",
+      "id": "smb-01",
+      "media_id": "18147397483606546"
     }
   ]
 }
