@@ -324,9 +324,15 @@
       "permalink": "https://www.instagram.com/reel/Df4aXL8kZCD/",
       "ts": "2026-11-18T11:36:14.937Z",
       "title": "Sunil Mittal raised $18 billion in 34 months | Airtel after Jio #shorts"
+    },
+    "smb-02": {
+      "media_id": "18171237721472563",
+      "permalink": "https://www.instagram.com/reel/Df7CZOLGW5Y/",
+      "ts": "2026-11-19T12:04:32.392Z",
+      "title": "India's No. 1 generator importer, banned overnight | Sunil Mittal #shorts"
     }
   },
-  "last_ts": "2026-11-18T11:36:14.937Z",
+  "last_ts": "2026-11-19T12:04:32.392Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -651,6 +657,12 @@
       "event": "published",
       "id": "smb-01",
       "media_id": "18147397483606546"
+    },
+    {
+      "ts": "2026-11-19T12:04:32.392Z",
+      "event": "published",
+      "id": "smb-02",
+      "media_id": "18171237721472563"
     }
   ]
 }
