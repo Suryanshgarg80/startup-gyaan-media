@@ -336,9 +336,15 @@
       "permalink": "https://www.instagram.com/reel/Df7ZjcTAcdD/",
       "ts": "2026-11-19T15:26:58.582Z",
       "title": "When Reliance came: 'When will we go out of business?' | Sunil Mittal #shorts"
+    },
+    "smb-04": {
+      "media_id": "18031266656869669",
+      "permalink": "https://www.instagram.com/reel/Df9hjwhDz3n/",
+      "ts": "2026-11-20T11:15:20.184Z",
+      "title": "Sunil Mittal's Africa mistake: no middle class | Airtel #shorts"
     }
   },
-  "last_ts": "2026-11-19T15:26:58.582Z",
+  "last_ts": "2026-11-20T11:15:20.184Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -675,6 +681,12 @@
       "event": "published",
       "id": "smb-03",
       "media_id": "18119199155591007"
+    },
+    {
+      "ts": "2026-11-20T11:15:20.184Z",
+      "event": "published",
+      "id": "smb-04",
+      "media_id": "18031266656869669"
     }
   ]
 }
