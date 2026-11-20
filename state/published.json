@@ -342,9 +342,15 @@
       "permalink": "https://www.instagram.com/reel/Df9hjwhDz3n/",
       "ts": "2026-11-20T11:15:20.184Z",
       "title": "Sunil Mittal's Africa mistake: no middle class | Airtel #shorts"
+    },
+    "ytk-01": {
+      "media_id": "18155179498535102",
+      "permalink": "https://www.instagram.com/reel/Df941a9Dgbo/",
+      "ts": "2026-11-20T14:38:46.492Z",
+      "title": "Kay Beauty: ₹350 crore, profitable from year one | Adwaita Nayar, Nykaa #shorts"
     }
   },
-  "last_ts": "2026-11-20T11:15:20.184Z",
+  "last_ts": "2026-11-20T14:38:46.492Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -687,6 +693,12 @@
       "event": "published",
       "id": "smb-04",
       "media_id": "18031266656869669"
+    },
+    {
+      "ts": "2026-11-20T14:38:46.492Z",
+      "event": "published",
+      "id": "ytk-01",
+      "media_id": "18155179498535102"
     }
   ]
 }
