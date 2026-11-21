@@ -354,9 +354,15 @@
       "permalink": "https://www.instagram.com/reel/Df_UX19jgjY/",
       "ts": "2026-11-21T03:58:39.440Z",
       "title": "Kay Beauty's ₹750-1,250 price gap | Adwaita Nayar, Nykaa #shorts"
+    },
+    "ytk-03": {
+      "media_id": "18107402195573777",
+      "permalink": "https://www.instagram.com/reel/Df_rg0TifaR/",
+      "ts": "2026-11-21T07:20:42.873Z",
+      "title": "80% of India's beauty market is still offline | Adwaita Nayar, Nykaa #shorts"
     }
   },
-  "last_ts": "2026-11-21T03:58:39.440Z",
+  "last_ts": "2026-11-21T07:20:42.873Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -711,6 +717,12 @@
       "event": "published",
       "id": "ytk-02",
       "media_id": "18662919445061512"
+    },
+    {
+      "ts": "2026-11-21T07:20:42.873Z",
+      "event": "published",
+      "id": "ytk-03",
+      "media_id": "18107402195573777"
     }
   ]
 }
