@@ -348,9 +348,15 @@
       "permalink": "https://www.instagram.com/reel/Df941a9Dgbo/",
       "ts": "2026-11-20T14:38:46.492Z",
       "title": "Kay Beauty: ₹350 crore, profitable from year one | Adwaita Nayar, Nykaa #shorts"
+    },
+    "ytk-02": {
+      "media_id": "18662919445061512",
+      "permalink": "https://www.instagram.com/reel/Df_UX19jgjY/",
+      "ts": "2026-11-21T03:58:39.440Z",
+      "title": "Kay Beauty's ₹750-1,250 price gap | Adwaita Nayar, Nykaa #shorts"
     }
   },
-  "last_ts": "2026-11-20T14:38:46.492Z",
+  "last_ts": "2026-11-21T03:58:39.440Z",
   "events": [
     {
       "ts": "2026-11-03T13:00:32.204Z",
@@ -699,6 +705,12 @@
       "event": "published",
       "id": "ytk-01",
       "media_id": "18155179498535102"
+    },
+    {
+      "ts": "2026-11-21T03:58:39.440Z",
+      "event": "published",
+      "id": "ytk-02",
+      "media_id": "18662919445061512"
     }
   ]
 }
